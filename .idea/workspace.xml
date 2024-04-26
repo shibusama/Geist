@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
+      <change afterPath="$PROJECT_DIR$/Frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/Frame" beforeDir="false" afterPath="$PROJECT_DIR$/Frame/Frame" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Frame" />
       <recent name="$PROJECT_DIR$/momentd" />
     </key>
   </component>
@@ -72,7 +74,8 @@
       <workItem from="1712593619658" duration="337000" />
       <workItem from="1713669922819" duration="7008000" />
       <workItem from="1713795302674" duration="1102000" />
-      <workItem from="1713964278055" duration="791000" />
+      <workItem from="1713964278055" duration="2136000" />
+      <workItem from="1714162323084" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -114,7 +117,31 @@
       <option name="project" value="LOCAL" />
       <updated>1713796423527</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714159295814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714159295814</updated>
+    </task>
+    <task id="LOCAL-00007" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714159847944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714159847944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714161255226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714161255226</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
