@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/可以和朋友一起出去玩的项目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/女装品牌" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文本分析/05_修辞.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文本分析/easychat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/旅游要准备的东西" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/穿搭" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/美学主题/zz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/解决吃的问题.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/00_未分类" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/00_未分类" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/01_官宣后" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/01_官宣后" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/02_旅游" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/02_旅游" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/04_日常" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/04_日常" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/05_修辞" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/dating" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/dating" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moment/easychat" beforeDir="false" afterPath="$PROJECT_DIR$/Frame/Frame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frame/Frame" beforeDir="false" afterPath="$PROJECT_DIR$/Frame/Frame" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,6 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mac/Documents/Geist&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,7 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1712498100584</updated>
       <workItem from="1712498104662" duration="3827000" />
-      <workItem from="1712503787478" duration="763000" />
+      <workItem from="1712503787478" duration="1170000" />
+      <workItem from="1712593619658" duration="337000" />
+      <workItem from="1713669922819" duration="7008000" />
+      <workItem from="1713795302674" duration="1102000" />
+      <workItem from="1713964278055" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -90,7 +82,39 @@
       <option name="project" value="LOCAL" />
       <updated>1712499969712</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="daily">
+      <option name="closed" value="true" />
+      <created>1712505079365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712505079365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="daily">
+      <option name="closed" value="true" />
+      <created>1713678647838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713678647838</updated>
+    </task>
+    <task id="LOCAL-00004" summary="daily">
+      <option name="closed" value="true" />
+      <created>1713679172788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713679172788</updated>
+    </task>
+    <task id="LOCAL-00005" summary="daily">
+      <option name="closed" value="true" />
+      <created>1713796423527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713796423527</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
