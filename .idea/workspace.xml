@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/Frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_个人框架/02_态度OR看法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/如何玩的花" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/穿搭" beforeDir="false" afterPath="$PROJECT_DIR$/02_个人框架/01_穿搭" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/约会组局" beforeDir="false" afterPath="$PROJECT_DIR$/约会组局/约会组局" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/美学主题/zz" beforeDir="false" afterPath="$PROJECT_DIR$/美学主题/zz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/解决吃的问题.json" beforeDir="false" afterPath="$PROJECT_DIR$/约会组局/解决吃的问题.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/个人框架" />
+      <recent name="$PROJECT_DIR$/约会组局d" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Frame" />
       <recent name="$PROJECT_DIR$/momentd" />
     </key>
@@ -75,7 +82,8 @@
       <workItem from="1713669922819" duration="7008000" />
       <workItem from="1713795302674" duration="1102000" />
       <workItem from="1713964278055" duration="2136000" />
-      <workItem from="1714162323084" duration="284000" />
+      <workItem from="1714162323084" duration="402000" />
+      <workItem from="1714312344954" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -141,7 +149,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714161255226</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714162663492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714162663492</updated>
+    </task>
+    <task id="LOCAL-00010" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714312933874</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714312933874</updated>
+    </task>
+    <task id="LOCAL-00011" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714316783667</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714316783667</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
