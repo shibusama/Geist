@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/心理建设" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/浪漫建设" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/生理建设" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/聊天建设" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/行为建设" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pick_up_artist/项目" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/常见问题" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爱情/浪漫建设.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爱情/聊天建设" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/Frame" beforeDir="false" afterPath="$PROJECT_DIR$/frame/Frame" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/Python数据科学速查表 - Pandas 基础.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 基础.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/Python数据科学速查表 - Pandas 进阶.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 进阶.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/Python金融大数据分析（第2版）（最新版本！金融应用开发领域从业人员的必备读物！）（异步图书） (伊夫·希尔皮斯科) (Z-Library).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/frame/Python金融大数据分析（第2版）（最新版本！金融应用开发领域从业人员的必备读物！）（异步图书） (伊夫·希尔皮斯科) (Z-Library).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/关于恋爱的正能量" beforeDir="false" afterPath="$PROJECT_DIR$/frame/关于恋爱的正能量" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/约会技巧" beforeDir="false" afterPath="$PROJECT_DIR$/frame/约会技巧" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame/聊天的框架" beforeDir="false" afterPath="$PROJECT_DIR$/frame/聊天的框架" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/心理建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/心理建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/浪漫建设" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/生理建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/生理建设" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/聊天建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/朋友圈建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/行为建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/行为建设" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_up_artist/项目" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/项目" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/常见问题" beforeDir="false" afterPath="$PROJECT_DIR$/事业/面试/常见问题" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +57,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/事业" />
       <recent name="$PROJECT_DIR$/个人框架" />
       <recent name="$PROJECT_DIR$/约会组局d" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Frame" />
-      <recent name="$PROJECT_DIR$/momentd" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -95,7 +88,7 @@
       <workItem from="1714162323084" duration="402000" />
       <workItem from="1714312344954" duration="3968000" />
       <workItem from="1714547898393" duration="201000" />
-      <workItem from="1714835506116" duration="3060000" />
+      <workItem from="1714835506116" duration="6953000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -209,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714317825320</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714838583135</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714838583135</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
