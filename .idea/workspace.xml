@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/爱情/浪漫建设.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爱情/聊天建设" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/心理建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/心理建设.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/浪漫建设" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/生理建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/生理建设" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/聊天建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/朋友圈建设.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/行为建设" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/行为建设" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_up_artist/项目" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/项目" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/常见问题" beforeDir="false" afterPath="$PROJECT_DIR$/事业/面试/常见问题" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/心理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/心理建设.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +80,8 @@
       <workItem from="1714162323084" duration="402000" />
       <workItem from="1714312344954" duration="3968000" />
       <workItem from="1714547898393" duration="201000" />
-      <workItem from="1714835506116" duration="6953000" />
+      <workItem from="1714835506116" duration="8604000" />
+      <workItem from="1716013936970" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -210,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714838583135</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="daily">
+      <option name="closed" value="true" />
+      <created>1714911867870</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714911867870</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
