@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/搬家必须带走的东西" beforeDir="false" afterPath="$PROJECT_DIR$/搬家必须带走的东西.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/旅游要准备的东西" beforeDir="false" afterPath="$PROJECT_DIR$/旅游要准备的东西.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爱情/浪漫建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/浪漫建设.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 基础.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 进阶.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/Python金融大数据分析（第2版）（最新版本！金融应用开发领域从业人员的必备读物！）（异步图书） (伊夫·希尔皮斯科) (Z-Library).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame/约会技巧" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +100,7 @@
       <workItem from="1714547898393" duration="201000" />
       <workItem from="1714835506116" duration="8604000" />
       <workItem from="1716013936970" duration="239000" />
-      <workItem from="1722010798550" duration="9702000" />
+      <workItem from="1722010798550" duration="10608000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -243,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722053127524</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="daily">
+      <option name="closed" value="true" />
+      <created>1722097785326</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722097785326</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
