@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
+      <change afterPath="$PROJECT_DIR$/ccc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/dddd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hobbies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Geist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Geist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 基础.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/Python数据科学速查表 - Pandas 进阶.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/Python金融大数据分析（第2版）（最新版本！金融应用开发领域从业人员的必备读物！）（异步图书） (伊夫·希尔皮斯科) (Z-Library).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/利用Python进行数据分析 原书第2版 (Wes McKinney) (Z-Library) (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/流畅的Python = Fluent Python clear, concise, and effective programming (Luciano Ramalho) (Z-Library).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/约会技巧" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/人生宪法/02_态度OR看法" beforeDir="false" afterPath="$PROJECT_DIR$/人生宪法/02_态度OR看法" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/兴趣爱好" beforeDir="false" afterPath="$PROJECT_DIR$/兴趣爱好" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mac/Documents/Geist&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ccc.executor": "Run",
+    "Python.hobbies.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mac/Documents/Geist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/事业" />
@@ -72,6 +75,60 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Frame" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.ccc">
+    <configuration name="ccc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geist" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ccc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hobbies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geist" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hobbies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ccc" />
+        <item itemvalue="Python.hobbies" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -100,7 +157,7 @@
       <workItem from="1714547898393" duration="201000" />
       <workItem from="1714835506116" duration="8604000" />
       <workItem from="1716013936970" duration="239000" />
-      <workItem from="1722010798550" duration="10608000" />
+      <workItem from="1722010798550" duration="37810000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -254,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722097785326</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="daily">
+      <option name="closed" value="true" />
+      <created>1722098957173</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722098957173</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,5 +328,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="daily" />
     <option name="LAST_COMMIT_MESSAGE" value="daily" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Geist$hobbies.coverage" NAME="hobbies Coverage Results" MODIFIED="1722415740879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Geist$ccc.coverage" NAME="ccc Coverage Results" MODIFIED="1722492863792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
