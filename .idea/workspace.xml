@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/文本分析/00_未分类.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文本分析/00_未分类" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/人生宪法/02_态度OR看法" beforeDir="false" afterPath="$PROJECT_DIR$/人生宪法/02_态度OR看法.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,6 +193,8 @@
       <workItem from="1752846392850" duration="5025000" />
       <workItem from="1752888253871" duration="4946000" />
       <workItem from="1752978026552" duration="2598000" />
+      <workItem from="1753027557399" duration="273000" />
+      <workItem from="1753111731300" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -371,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752979845220</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="daily">
+      <option name="closed" value="true" />
+      <created>1753027565606</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1753027565606</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
