@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
+      <change afterPath="$PROJECT_DIR$/爱情/1、爱情理论/爱情哲学" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人生宪法/02_态度OR看法" beforeDir="false" afterPath="$PROJECT_DIR$/人生宪法/02_态度OR看法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/展示建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/solo/展示建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/心理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/solo/心理建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/浪漫建设.json" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/solo/浪漫建设.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/生理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/solo/生理建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/聊天建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/1v1实践/聊天建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/行为建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/1v1实践/行为建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爱情/项目" beforeDir="false" afterPath="$PROJECT_DIR$/爱情/2、爱情实践/1v1实践/项目" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +75,11 @@
       <recent name="D:\Users\13191\PycharmProjects\Geist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/事业" />
-      <recent name="$PROJECT_DIR$/个人框架" />
-      <recent name="$PROJECT_DIR$/约会组局d" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Frame" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\solo" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\1v1" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\具体实践" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\发广告" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ccc">
@@ -194,7 +201,8 @@
       <workItem from="1752888253871" duration="4946000" />
       <workItem from="1752978026552" duration="2598000" />
       <workItem from="1753027557399" duration="273000" />
-      <workItem from="1753111731300" duration="879000" />
+      <workItem from="1753111731300" duration="1554000" />
+      <workItem from="1753500301027" duration="3985000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -380,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753027565606</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="daily">
+      <option name="closed" value="true" />
+      <created>1753115022538</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1753115022538</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
