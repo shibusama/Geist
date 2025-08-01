@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/date_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/romantic_script.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/展示建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/perf_building.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/心理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/浪漫建设.json" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/romantic_preparation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/生理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/生理建设.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +68,11 @@
       <recent name="D:\Users\13191\PycharmProjects\Geist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\13191\PycharmProjects\Geist\LOVE\2、LOVE-PRACTICE\1v1实践" />
       <recent name="$PROJECT_DIR$/事业" />
       <recent name="$PROJECT_DIR$/个人框架" />
       <recent name="$PROJECT_DIR$/约会组局d" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Frame" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ccc">
@@ -363,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754013642320</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754015067109</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1754015067109</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
