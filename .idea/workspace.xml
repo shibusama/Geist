@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LOVE/1、LOVE-THEROY/LOVE-TAO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/1、LOVE-THEROY/LOVE-TAO.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/shibusama/Geist.git&quot;,
-    &quot;accountId&quot;: &quot;37ea7ca1-3d2d-46f6-b6ca-7c3bed721268&quot;
+    &quot;accountId&quot;: &quot;76ef7c1f-9454-4feb-ba84-c57ec72f1df1&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -68,11 +68,11 @@
       <recent name="D:\Users\13191\PycharmProjects\Geist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\13191\PycharmProjects\Geist\LOVE\2、LOVE-PRACTICE\1v1实践" />
-      <recent name="$PROJECT_DIR$/事业" />
-      <recent name="$PROJECT_DIR$/个人框架" />
-      <recent name="$PROJECT_DIR$/约会组局d" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\solo" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\1v1" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践\具体实践" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\爱情实践" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\爱情\发广告" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ccc">
@@ -190,6 +190,15 @@
       <workItem from="1740099901987" duration="9597000" />
       <workItem from="1742456131102" duration="18059000" />
       <workItem from="1743068613663" duration="1311000" />
+      <workItem from="1752846392850" duration="5025000" />
+      <workItem from="1752888253871" duration="4946000" />
+      <workItem from="1752978026552" duration="2598000" />
+      <workItem from="1753027557399" duration="273000" />
+      <workItem from="1753111731300" duration="1554000" />
+      <workItem from="1753500301027" duration="4012000" />
+      <workItem from="1753628597410" duration="3267000" />
+      <workItem from="1754102298675" duration="1025000" />
+      <workItem from="1754144616633" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -353,25 +362,84 @@
     </task>
     <task id="LOCAL-00021" summary="daily">
       <option name="closed" value="true" />
-      <created>1754013642320</created>
+      <created>1752861835832</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1754013642320</updated>
+      <updated>1752861835832</updated>
     </task>
     <task id="LOCAL-00022" summary="daily">
       <option name="closed" value="true" />
-      <created>1754015067109</created>
+      <created>1752979845220</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1754015067109</updated>
+      <updated>1752979845220</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="daily">
+      <option name="closed" value="true" />
+      <created>1753027565606</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1753027565606</updated>
+    </task>
+    <task id="LOCAL-00024" summary="daily">
+      <option name="closed" value="true" />
+      <created>1753115022538</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1753115022538</updated>
+    </task>
+    <task id="LOCAL-00025" summary="daily">
+      <option name="closed" value="true" />
+      <created>1753552712390</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1753552712390</updated>
+    </task>
+    <task id="LOCAL-00026" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754064621572</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1754064621572</updated>
+    </task>
+    <task id="LOCAL-00027" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754102446497</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1754102446497</updated>
+    </task>
+    <task id="LOCAL-00028" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754108579397</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1754108579397</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="daily" />
