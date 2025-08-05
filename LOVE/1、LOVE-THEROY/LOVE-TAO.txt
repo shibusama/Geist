@@ -96,7 +96,26 @@ LTS，你需要达成的目的，你心中胜券在握，完全不担心ta会离
 # threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
 # threadPoolExcuter.submit()
 # iter = pd.read_csv(iterator=True)
+"""
+就是一个人，说话的声音，你是知道ta是有没有发情的，所以你会采取一种无视的态度来进行隐形交流，他是不会看上你的，所以你跟她再交流也米有用
+但是辩证法来了，你这种退缩行为，把自己保护起来的行为一下子又会变成又会被视为太闷了，没有进攻主动性，但是你又知道一开始没有吸引住你，
+你再进攻也没有用，但是还是得进攻，必须让实践落地，首先不要意象ta对你的态度把，该实践实践，在实践中，把握事态
+"""
 
+# import pandas as pd
+# pd.set_option('display.max_rows', 500)
+# pd.set_option('display.max_columns', 500)
+# pd.set_option('display.width', 1000)
+# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
+
+"""
+一个轻佻的姿态，挑逗对方的情欲，让别人害羞，不好意思，不是我想这样，是他想这样，他未来是要给你做m的
+"""
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
 
 
 
