@@ -44,4 +44,89 @@
 各种社交圈 酒局、饭局、相亲认识之后，不要继续停留在智人脑沟通 要尽快进入男女嬉戏玩闹打闹的状态
 只聊感受，不聊装逼，进入一种小孩子的状态
 用爬行脑和哺乳脑
+这是基础，相当于像旗子一样的东西fund_mental
 ******************************************************
+
+
+
+
+
+# import pandas as pd
+# pd.set_option('display.max_rows', 500)
+# pd.set_option('display.max_columns', 500)
+# pd.set_option('display.width', 1000)
+# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
+#
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+#
+# hobby.to_csv("hobby.csv",index=False)
+#
+# from concurrent.futures.thread import ThreadPoolExecutor
+#
+# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
+# threadPoolExcuter.submit()
+# iter = pd.read_csv(iterator=True)
+
+s = 'adfgdfg333fdsgdf'
+
+print(s.replace('333','')
+
+"""
+LTS，你需要达成的目的，你心中胜券在握，完全不担心ta会离开的几种情况
+1、可能是你有很多钱，断了钱之后，你就会变的不体面
+2、他只有和你在一起才能突破社会底线，突破社会道德，性高潮什么都会有，但是让她做自己不是每个人都会有的
+3、你们俩之间得有最淫荡的秘密
+4、因为不然的话，现在的人都太过随意了，随便一个不开心都有可能分手，即使你很有钱，很有颜，但是你没有能控制她的东西
+说不叼你就是不叼你
+"""
+
+# hobby.to_csv("hobby.csv",index=False)
+#
+# from concurrent.futures.thread import ThreadPoolExecutor
+#
+"""
+α male的局限性，过分a，过于直接，会导致一眼看穿，然后会导致排斥，没人会喜欢老板
+过分-a，会导致，太过于弱小，然后会导致没有性张力（暂时的意识形态）
+"""
+
+# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
+# threadPoolExcuter.submit()
+# iter = pd.read_csv(iterator=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
