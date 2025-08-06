@@ -115,7 +115,30 @@ LTS，你需要达成的目的，你心中胜券在握，完全不担心ta会离
 # del hobby["timeOfDay"]
 # del hobby["levelVal"]
 # del hobby["status"]
+需要培养的能力：
+1、讲故事的能力
 # print(hobby)
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+
+
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+
+
+
 
 
 

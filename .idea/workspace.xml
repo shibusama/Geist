@@ -8,10 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LOVE/1、LOVE-THEROY/LOVE-TAO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/1、LOVE-THEROY/LOVE-TAO.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/chat_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/chat_building.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/约会组局/上海城市游玩地点.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/上海城市游玩地点.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/约会组局/未来要去的景点.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/未来要去的景点.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/约会组局/约会组局.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/约会组局.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/约会组局/解决吃的问题.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/解决吃的问题.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -372,7 +368,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754015067109</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754381034828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1754381034828</updated>
+    </task>
+    <task id="LOCAL-00024" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754388041408</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754388041408</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
