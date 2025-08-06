@@ -1,3 +1,115 @@
+绝对知识
+chat or game过程中的两条主线
+"""
+1、满足他们的慕强心里（你需要表现出情绪稳定的成熟魅力，无论发生什么都能从容应对，成为她严重最具价值的对象）
+2、体现你的择偶优势（可能是一些外在条件什么的）
+"""
+
+思维转变：放下男性那种执行者思维
+
+patience is important
+顺其自然 慢慢来
+他能沉得住气 静待事态发展
+重点：
+别聊那些费脑子的严肃话题
+
+# import pandas as pd
+# pd.set_option('display.max_rows', 500)
+# pd.set_option('display.max_columns', 500)
+# pd.set_option('display.width', 1000)
+# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
+#
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+#
+# hobby.to_csv("hobby.csv",index=False)
+#
+# from concurrent.futures.thread import ThreadPoolExecutor
+#
+# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
+# threadPoolExcuter.submit()
+# iter = pd.read_csv(iterator=True)
+
+s = 'adfgdfg333fdsgdf'
+
+print(s.replace('333','')
+1、耐心，耐心，耐心
+woman didn't respond 你 并不是讨厌你
+讨厌你的原因只是 你花样百出的死缠烂打向她博好感，手机是帮她筛选优质对象的的婚恋工具
+必须懂得来日方长的道理
+
+"""
+2、无论你手机收到多少好感都没用，手机只是她用来海量幕墙择偶的工具，以及获得免费注意力
+手机的定义：是她零成本施展幕墙择偶的工具
+"""
+
+# import pandas as pd
+# pd.set_option('display.max_rows', 500)
+# pd.set_option('display.max_columns', 500)
+# pd.set_option('display.width', 1000)
+# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
+#
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+
+建议：把和女生发短信的时间集中起来
+
+
+# pd.set_option('display.max_rows', 500)
+# pd.set_option('display.max_columns', 500)
+# pd.set_option('display.width', 1000)
+# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
+#
+# del hobby["nicheValue"]
+# del hobby["timeOfDay"]
+# del hobby["levelVal"]
+# del hobby["status"]
+# print(hobby)
+
+"""
+强迫症 你总喜欢把事情昨晚 不喜欢接受模糊性 自我反思
+男生：总喜欢点掉红心，女生：满屏都是未读消息，他们呢有自己的节奏，手机不会支配他们的日常
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 聊天十戒：（否定辩证法）
 1、筛选窗口
 2、微信上不要暴露需求感（不要热脸贴冷屁股）
@@ -11,8 +123,6 @@
 6、高位框架：很久没见到你动态了，你最近还好吧，心态放平2
 7、拍一些照片，聊天更有话题性，主动分享自己的生活
 8、模糊邀约、直接邀约，去一些漫展或者什么东西之类的
-
-把那个视频砍完
 
 聊天十法（肯定辩证法）
 1、在说自己比较夸张事情的时候，不要一下子打那么多字然后说完，要慢慢吐出来，让信息像剥洋葱一样一层层给
@@ -50,3 +160,34 @@
 平时周末喜欢做什么，出门和不出门都喜欢做什么
 影视剧、喜欢、喜欢什么明星
 性格特色、价值观
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
