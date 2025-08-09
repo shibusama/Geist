@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Geist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Geist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/1、LOVE-THEROY/LOVE-TAO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/LOVE-TAO.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/behavior_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/1v1实践/behavior_building.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/chat_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/1v1实践/chat_building.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/date_project" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/1v1实践/date_project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/1v1实践/生理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/1v1实践/生理建设.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/date_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/solo/date_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/solo/mental_preparation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/perf_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/solo/perf_building.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/romantic_preparation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/solo/romantic_preparation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE/2、LOVE-PRACTICE/solo/romantic_script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-PRACTICE/solo/romantic_script.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/女装品牌" beforeDir="false" afterPath="$PROJECT_DIR$/美学主题/女装品牌" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/如何玩的花" beforeDir="false" afterPath="$PROJECT_DIR$/美学主题/hentai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/搬家必须带走的东西.json" beforeDir="false" afterPath="$PROJECT_DIR$/skills/搬家必须带走的东西.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/旅游要准备的东西.json" beforeDir="false" afterPath="$PROJECT_DIR$/skills/旅游要准备的东西.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/美学主题/我的一些电影推荐.json" beforeDir="false" afterPath="$PROJECT_DIR$/文本分析/我的一些电影推荐.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/LOVE-TAO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/LOVE-TAO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/旅游游玩/上海城市游玩地点.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/上海城市游玩地点.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/旅游游玩/未来要去的景点.json" beforeDir="false" afterPath="$PROJECT_DIR$/旅游游玩/未来要去的景点.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +202,7 @@
       <workItem from="1753628597410" duration="3267000" />
       <workItem from="1754102298675" duration="1025000" />
       <workItem from="1754144616633" duration="1031000" />
-      <workItem from="1754730116524" duration="1091000" />
+      <workItem from="1754730116524" duration="3039000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -450,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754497077102</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="daily">
+      <option name="closed" value="true" />
+      <created>1754732048944</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1754732048944</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
