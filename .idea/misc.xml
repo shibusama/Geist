@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Geist" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Geistnew" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="pre_process" project-jdk-type="Python SDK" />
 </project>
