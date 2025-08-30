@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
-      <change afterPath="$PROJECT_DIR$/事业/邪修/自由职业者路线指南" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/人生宪法/昵称取名" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/事业/面试/常见问题" beforeDir="false" afterPath="$PROJECT_DIR$/事业/正道/面试/常见问题" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/美学主题/hentai" beforeDir="false" afterPath="$PROJECT_DIR$/美学主题/hentai" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;Ameterphos&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/shibusama/Geist.git&quot;,
-    &quot;accountId&quot;: &quot;37ea7ca1-3d2d-46f6-b6ca-7c3bed721268&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shibusama/Geist.git",
+    "accountId": "76ef7c1f-9454-4feb-ba84-c57ec72f1df1"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -192,6 +192,7 @@
       <workItem from="1742456131102" duration="18059000" />
       <workItem from="1743068613663" duration="1311000" />
       <workItem from="1755573029765" duration="3190000" />
+      <workItem from="1756522546995" duration="5289000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -385,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754388041408</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="daily">
+      <option name="closed" value="true" />
+      <created>1756224430581</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1756224430581</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
