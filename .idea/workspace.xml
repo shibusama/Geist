@@ -6,14 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/1v1实践/behavior_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/行为建设.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/1v1实践/chat_building.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/聊天脚本.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/1v1实践/date_project" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/约会脚本.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/1v1实践/生理建设.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/生理建设.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/solo/date_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/solo/date_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/solo/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/solo/mental_preparation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/solo/romantic_preparation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/solo/romantic_preparation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/solo/romantic_script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/solo/romantic_script.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/date_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/mental_preparation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/romantic_preparation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/romantic_preparation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/romantic_script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/romantic_script.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +71,11 @@
       <recent name="D:\Users\13191\PycharmProjects\Geist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\13191\PycharmProjects\Geist\Intimacy\2、LOVE-SCRIPT" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\Intimacy\1、LOVE-THEROY" />
+      <recent name="D:\Users\13191\PycharmProjects\Geist\Intimacy\1、LOVE-THEROY\solo" />
       <recent name="D:\Users\13191\PycharmProjects\Geist\LOVE\2、LOVE-PRACTICE\1v1实践" />
       <recent name="$PROJECT_DIR$/事业" />
-      <recent name="$PROJECT_DIR$/个人框架" />
-      <recent name="$PROJECT_DIR$/约会组局d" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ccc">
@@ -199,7 +195,7 @@
       <workItem from="1743068613663" duration="1311000" />
       <workItem from="1755573029765" duration="3190000" />
       <workItem from="1756522546995" duration="5619000" />
-      <workItem from="1756631602584" duration="6077000" />
+      <workItem from="1756631602584" duration="9628000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -425,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756642858471</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="daily">
+      <option name="closed" value="true" />
+      <created>1756643763907</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1756643763907</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
